@@ -1413,29 +1413,6 @@ body {
   background: #ff3366 !important;
   box-shadow: none !important;
 }
-.cid-rIkwCMFjbi {
-  background: #ffffff;
-}
-.cid-rIkwCMFjbi .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rIkwCMFjbi .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rIkwCMFjbi figcaption {
-  position: relative;
-}
-.cid-rIkwCMFjbi figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rIkwCMFjbi .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rIJ2Kp2CCe .navbar {
   background: #ffffff;
   transition: none;
